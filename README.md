@@ -1,4 +1,4 @@
-# [Personal Website]
+# Xuan's personal website
 
 ## This is my personal website based on [Bootstrap](http://getbootstrap.com/) and  [Start Bootstrap](http://startbootstrap.com/). 
 
