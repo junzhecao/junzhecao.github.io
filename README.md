@@ -2,9 +2,11 @@
 
 ## This is my personal website based on [Bootstrap](http://getbootstrap.com/) and  [Start Bootstrap](http://startbootstrap.com/). 
 
-### I'm now working on DL and RL based problem solving tasks in [ITS](https://en.wikipedia.org/wiki/ITS). 
+### I'm now working on DL, RL based problem and high performance computing
 
-My research intersets lie in [Connected and Autonomous Vehicle](https://en.wikipedia.org/wiki/Connected_car) and [Intelligent Vehicle Infrastructure Cooperative System](https://baike.baidu.com/item/%E6%99%BA%E8%83%BD%E8%BD%A6%E8%B7%AF%E5%8D%8F%E5%90%8C%E7%B3%BB%E7%BB%9F/15876181?fr=aladdin). My current focus is to explore efficient and robust control methods for connected and autonomous vehicle in various heterougeneous traffic situations.
+My research intersets lie in GPU based traffic operation simulation and [Urban Air Mobility](https://www.faa.gov/uas/advanced_operations/urban_air_mobility). My current focus is to build a solid metropolitan scale parallel traffic operation simulator and explore efficient and robust control methods for UAM vehicles in various heterougeneous traffic situations.
+
+
 
 
 I will keep updating my research on this site, if anyone has the same interests please contact me.
